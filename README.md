@@ -1,6 +1,11 @@
-- 👋 Hey I'm Munashe :)
-- 👀 I’m interested in mostly astronomy, space exploration, theories of physics, space and time... yeah the whole shebang.
-- 💞️ When I'm not drowning in IT, I enjoy hikes, coffee, anime and tennis.
-- 🌱 I’m currently learning and evolving while doing my Honours in Bachelor of Information Technology, to become the best Software Engineer
-- 🌂 Half Lone wolf, Half everyone's big brother
-- 📫 How to reach me: munashemugniwa21@gmail.com (yes I am aware I misspelt my own surname in my email address)
+Welcome to my Github. here you can find mostly coding projects I'm busy with. I try keep learning and improving my skills in various languages and frameworks, as well as teaching myself entire languages and frameworks! 
+My skills are mostly:
+.NET (C#)
+Java
+C++
+Javascript
+Bootstrap
+SQL
+NoSQL
+Node
+React
